@@ -4,9 +4,12 @@
 ### Index
 1. Basics of content marketing
 2. Content strategy
-3. A crash course on SEO
-4. A crash course on copywriting
-5. Execution excellence
+3. Market research
+4. Keyword research
+5. A crash course on SEO
+6. Copywriting
+7. Execution excellence
+8. Tech stack: Analytics, attribution, exceution workflow
 
 
 Resources:
