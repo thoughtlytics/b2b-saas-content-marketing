@@ -1,4 +1,4 @@
-# Early stage B2B SaaS Content Marketing
+# Early-stage B2B SaaS Content Marketing
 **The definitive guide to early-stage B2B SaaS content strategy**
 
 ### Index
