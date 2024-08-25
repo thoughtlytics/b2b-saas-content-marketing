@@ -9,7 +9,8 @@
 5. A crash course on SEO
 6. Copywriting
 7. Execution excellence
-8. Tech stack: Analytics, attribution, exceution workflow
+8. Content types with examples: comparison posts (MOFU), state of the industry surveys, checklists (MOFU)
+9. Tech stack: Analytics, attribution, exceution workflow
 
 
 Resources:
