@@ -5,7 +5,8 @@
 1. Basics of content marketing
 2. Content strategy
 3. A crash course on SEO
-4. Execution excellence
+4. A crash course on copywriting
+5. Execution excellence
 
 
 Resources:
