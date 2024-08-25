@@ -2,7 +2,10 @@
 **The definitive guide to early-stage B2B SaaS content strategy**
 
 ### Index
-1. 
+1. Basics of content marketing
+2. Content strategy
+3. A crash course on SEO
+4. Execution excellence
 
 
 Resources:
